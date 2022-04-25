@@ -17,6 +17,14 @@ function main(){
     const root = document.getElementById("root");
     const btn = document.getElementById("change-btn");
 
+    // Add Event listener In Button
+
+    btn.addEventListener("click",function(){
+
+        
+    })
+
+
 }
 
 // step 2 random color generator function 
