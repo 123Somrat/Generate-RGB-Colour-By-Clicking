@@ -21,7 +21,8 @@ function main(){
 
     btn.addEventListener("click",function(){
 
-        
+        const bgcolor =  generateRGBcolor();
+        root.style.backgroundColor = bgcolor;
     })
 
 
