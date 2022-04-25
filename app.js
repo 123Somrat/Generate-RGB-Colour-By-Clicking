@@ -12,7 +12,10 @@ window.onload = () => {
 };
 
 function main(){
+    // Selete UI Element
 
+    const root = document.getElementById("root");
+    const btn = document.getElementById("change-btn");
 
 }
 
